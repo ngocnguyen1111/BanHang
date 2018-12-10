@@ -53,9 +53,9 @@
             this.label2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label2.Location = new System.Drawing.Point(39, 153);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(88, 22);
+            this.label2.Size = new System.Drawing.Size(94, 22);
             this.label2.TabIndex = 0;
-            this.label2.Text = "Tài khoản";
+            this.label2.Text = "Tài khoản:";
             // 
             // label3
             // 
@@ -63,9 +63,9 @@
             this.label3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label3.Location = new System.Drawing.Point(39, 221);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(82, 22);
+            this.label3.Size = new System.Drawing.Size(88, 22);
             this.label3.TabIndex = 0;
-            this.label3.Text = "Mật khẩu";
+            this.label3.Text = "Mật khẩu:";
             // 
             // txtTaiKhoan
             // 
@@ -88,9 +88,9 @@
             // btnDangNhap
             // 
             this.btnDangNhap.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.btnDangNhap.Location = new System.Drawing.Point(44, 291);
+            this.btnDangNhap.Location = new System.Drawing.Point(43, 291);
             this.btnDangNhap.Name = "btnDangNhap";
-            this.btnDangNhap.Size = new System.Drawing.Size(308, 42);
+            this.btnDangNhap.Size = new System.Drawing.Size(309, 42);
             this.btnDangNhap.TabIndex = 2;
             this.btnDangNhap.Text = "ĐĂNG NHẬP";
             this.btnDangNhap.UseVisualStyleBackColor = true;
