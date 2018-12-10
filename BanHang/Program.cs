@@ -20,7 +20,7 @@ namespace BanHang
             Application.SetCompatibleTextRenderingDefault(false);
 
             BonusSkins.Register();
-            Application.Run(new frmMain());
+            Application.Run(new frmLogin());
         }
     }
 }
